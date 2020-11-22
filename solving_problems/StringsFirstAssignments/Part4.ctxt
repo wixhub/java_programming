@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Part4
+comment1.params=urlString\ checkWord
+comment1.target=void\ readURL(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testStrings()
+numComments=3

@@ -1,3 +1,12 @@
+/**
+ * Calculating a Shape’s Perimeter
+ *
+ * @source Week 1 Coursera cource 'Java Programming and Software Engineering Fundamentals Specialization' by  Duke University
+ * 
+ * @author Jana Semenova
+ * @version 1
+ */
+
 import edu.duke.*;
 import java.io.File;
 

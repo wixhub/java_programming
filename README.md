@@ -8,7 +8,9 @@ There are 5 Courses in this Specialization:
 JavaScript project <a href="https://codepen.io/Rublin/pen/XWKQqBZtarget="_blank">Photo Filter</a>
 
 2. Solving Problems with Software
-Java project `Calculating a Shape’s Perimeter`
+Java projects:
+    `Calculating a Shape’s Perimeter` Using the File Class
+    `Finding genes in a strand of DNA` Using the StorageResource Class
 
 3. Arrays, Lists, and Structured Data
 
