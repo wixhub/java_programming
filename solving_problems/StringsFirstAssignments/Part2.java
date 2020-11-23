@@ -1,6 +1,5 @@
 /**
  * Finding genes in a strand of DNA
- * Using the StorageResource Class
  * 
  * Part 2: Finding a Gene - Using the Simplified Algorithm Reorganized
  * 

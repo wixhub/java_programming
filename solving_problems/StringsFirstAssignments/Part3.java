@@ -1,6 +1,5 @@
 /**
  * Finding genes in a strand of DNA
- * Using the StorageResource Class
  * 
  * Part 3: Problem Solving with Strings
  * 

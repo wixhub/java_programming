@@ -1,6 +1,5 @@
 /**
  * Finding genes in a strand of DNA
- * Using the StorageResource Class
  * 
  * Part 4: Problem Finding Web Links
  * 
@@ -24,11 +23,12 @@ public class Part4 {
             if (check >= 0) {
                 //System.out.println("check " + check);
                 //System.out.println("currWord " + currWord);
-                int start = currWord.toLowerCase().lastIndexOf(quotes, check);
+                //
+                int start = currWord.toLowerCase().lastIndexOf(quotes, check) + 1;
                 int end = currWord.toLowerCase().indexOf(quotes, check);
                 //System.out.println("start " + start + " end " + end);
                 if (start >= 0 && end > 0) {
-                    result = currWord.substring(start, end + 1);
+                    result = currWord.substring(start, end);
                     System.out.println(result);
                 }
             }
